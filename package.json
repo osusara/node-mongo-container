@@ -1,0 +1,15 @@
+{
+  "name": "node-mongo-dockerizing",
+  "version": "1.0.0",
+  "description": "Learn how to dockerize and application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Osusara Kammalawatta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.26"
+  }
+}
